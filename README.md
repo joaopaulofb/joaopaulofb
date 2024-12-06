@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Paulo!  
 
-<!--
-**joaopaulofb/joaopaulofb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Sobre Mim**  
+Sou um desenvolvedor de sistemas experiente, especializado em construir aplicações robustas e escaláveis utilizando tecnologias modernas.  
 
-Here are some ideas to get you started:
+💡 **O que faço**  
+- 💻 Desenvolvimento backend e frontend.  
+- 🛠️ Criação de aplicações web dinâmicas e responsivas.  
+- 🚀 Automação de processos e otimização de sistemas empresariais.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Habilidades técnicas**  
+- **Linguagens**: Asp.Net (C#), JavaScript, HTML/CSS
+- **Ferramentas e Tecnologias**: Visual Studio, Entity Framework, SQL Server, Bootstrap, jQuery, etc....  
+
+- **Práticas**:  Arquitetura limpa (Clean Architecture), Integração de APIs REST, Testes automatizados, entre outros.
+
+📫 **Entre em contato**
+- 📧 E-mail: joaopaulo_fb@hotmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/jpaulobosqueti/  
+
+✨ _Sempre aberto para aprender, colaborar e inovar._
